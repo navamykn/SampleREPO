@@ -1,1 +1,3 @@
-# SampleREPO
+void main(){
+    print("hello world");
+}
